@@ -1,0 +1,15 @@
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+stills/crashland.png filter=lfs diff=lfs merge=lfs -text
+stills/hiresfrostpink.png filter=lfs diff=lfs merge=lfs -text
+stills/hiresnebula.png filter=lfs diff=lfs merge=lfs -text
+stills/nebulafire.png filter=lfs diff=lfs merge=lfs -text
+stills/scene1.png filter=lfs diff=lfs merge=lfs -text
+stills/*.jpg filter=lfs diff=lfs merge=lfs -text
+stills/Cake.png filter=lfs diff=lfs merge=lfs -text
+stills/Lightsaber01.png filter=lfs diff=lfs merge=lfs -text
+stills/Lightsaber03.png filter=lfs diff=lfs merge=lfs -text
+stills/armanno.png filter=lfs diff=lfs merge=lfs -text
+stills/clu.png filter=lfs diff=lfs merge=lfs -text
+stills/flynn.png filter=lfs diff=lfs merge=lfs -text
+stills/pendulum.png filter=lfs diff=lfs merge=lfs -text

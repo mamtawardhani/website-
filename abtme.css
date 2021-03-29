@@ -1,0 +1,21 @@
+@font-face {
+    font-family: llama;
+    src: url(other/SyneMono-Regular.ttf);
+}
+
+@font-face {
+    font-family: spacet;
+    src: url(other/origin.ttf);
+}
+
+h1 {
+    font-family: spacet;
+    font-size: 70px;
+    text-align: center;
+    margin-top: -4px;
+}
+
+h3 {
+    font-family: llama;
+    text-align: center;
+}

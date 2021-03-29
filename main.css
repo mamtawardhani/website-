@@ -1,0 +1,14 @@
+body {
+    background-image: url("other/hiresplanet.png");
+    background-size: cover;
+}
+
+@font-face {
+    font-family: spacetext;
+    src: url(other/origin.ttf);
+}
+
+* {
+    font-family: spacetext;
+    font-size: larger;
+}
